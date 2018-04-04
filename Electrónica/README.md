@@ -1,3 +1,11 @@
-# Fablab-Penela
-Compilação de documentos importantes para uso do Fablab, nomeadamente informação de utilização das máquinas, etc.
-Cada pasta recolhe informação sobre os vários equipamentos ou áreas de trabalho do Fablab Penela.
+# Electrónica
+
+## Ferramentas existentes:
+- Estação de Soldar e Ar Quente;
+- Estação de Soldar;
+- Forno Soldadura SMD;
+- Equipamento Reflow
+- Equipamento de posicionamento SMD
+
+
+## Nesta secção encontra também o inventário dos componentes electrónicos existentes.   
